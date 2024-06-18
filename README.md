@@ -1,4 +1,4 @@
-Tic Tac Toe A Browser Game for 2 Players created 
+Tic Tac Toe A Browser Game for 2 Players created using
 <br>
 <ul>
   <li>HTML</li>
